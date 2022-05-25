@@ -1,1 +1,1 @@
-# Vottun-Discord-Bot-
+# Vottun-Discord-Bot
